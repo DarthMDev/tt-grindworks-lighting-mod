@@ -7,7 +7,7 @@
 				"AuthorName"
 			],
 			"compatible_game_version": [
-				"0.0.1"
+				"1.0.2", "1.0.3"
 			],
 			"compatible_mod_loader_version": [
 				"7.0.0"
